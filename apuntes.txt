@@ -1,0 +1,2 @@
+ Crea rama y cambia -> git checkout -b sprint1b
+ 
